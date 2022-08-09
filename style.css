@@ -1,0 +1,19 @@
+h1 {
+    font-size: 200px;
+    text-shadow: -1px -1px 0px rgba(255, 255, 255, 0.3), 
+    1px 1px 0px rgba(0, 0, 0, 0.8);
+    color: #c75481;
+    opacity: 0.4;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D86981;
+}
